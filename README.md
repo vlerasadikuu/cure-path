@@ -3,6 +3,7 @@
 started a new project
 
 if you want to join my project
+### steps
 step1: clone the repo
 step2: checkout to a new branch
 step3: make changes
